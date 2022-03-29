@@ -15,7 +15,7 @@ require (
 	github.com/containerd/fifo v1.0.0
 	github.com/containerd/go-cni v1.1.3
 	github.com/containerd/go-runc v1.0.0
-	github.com/containerd/imgcrypt v1.1.3
+	github.com/containerd/imgcrypt v1.1.4
 	github.com/containerd/nri v0.1.0
 	github.com/containerd/ttrpc v1.1.0
 	github.com/containerd/typeurl v1.0.2
@@ -45,7 +45,7 @@ require (
 	github.com/moby/sys/signal v0.7.0
 	github.com/moby/sys/symlink v0.2.0
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.2-0.20211117181255-693428a734f5
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/opencontainers/runc v1.1.0
 	github.com/opencontainers/runtime-spec v1.0.3-0.20210326190908-1c3f411f0417
 	github.com/opencontainers/selinux v1.10.0
